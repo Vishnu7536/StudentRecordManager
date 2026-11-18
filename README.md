@@ -20,7 +20,6 @@ Thank you for visiting my project!
 
 
 
-"Output"
-
+**Output**
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1036a722-ed26-4b95-a52b-c413047efcb0" />
